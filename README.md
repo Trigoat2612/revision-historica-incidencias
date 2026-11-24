@@ -1,4 +1,4 @@
-# Centro de control de incidencias EJE No Penal · V4.1
+# Centro de control de incidencias EJE No Penal · V4.2
 
 Aplicación estática autónoma. No requiere dependencias, servidor, variables de entorno ni compilación.
 
@@ -11,4 +11,4 @@ Aplicación estática autónoma. No requiere dependencias, servidor, variables d
 Alternativa con Vercel CLI: ejecutar `npx vercel --prod` desde la carpeta extraída y seguir las instrucciones de autenticación y vinculación.
 
 ## Datos
-67 incidencias, corte del 24/11/2026. Los datos y las descripciones se incorporan en `index.html`; no hay actualización automática. Para proteger información institucional, configurar acceso restringido antes de publicar. Un repositorio privado por sí solo no protege un sitio público de Vercel.
+67 incidencias, corte del 24/11/2026. Severidad registrada: 14 críticas, 16 altas, 31 medias y 6 bajas. Filtros, indicadores, matriz de severidad, línea temporal, comparación y exportaciones incluyen este atributo. Los datos y las descripciones se incorporan en `index.html`; no hay actualización automática. Para proteger información institucional, configurar acceso restringido antes de publicar. Un repositorio privado por sí solo no protege un sitio público de Vercel.
