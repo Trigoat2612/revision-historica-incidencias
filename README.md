@@ -1,4 +1,4 @@
-# Centro de control de incidencias EJE No Penal · V4.0
+# Centro de control de incidencias EJE No Penal · V4.1
 
 Aplicación estática autónoma. No requiere dependencias, servidor, variables de entorno ni compilación.
 
